@@ -1,5 +1,4 @@
 ### Load Data 
-#setwd("~/Documents/classes/1st year/4th term/Methods IV/Final") 
 setwd("~/GitHub/methods_project/")
 data <- read.delim("challenge1_data.txt")
 
